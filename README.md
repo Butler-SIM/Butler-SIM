@@ -29,7 +29,7 @@ I'm Sim👏  👏  👏
 ## FramWork :
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-181717?style=flat-square&logo=Spring&logoColor=white"/> 
 </p>
 
 
