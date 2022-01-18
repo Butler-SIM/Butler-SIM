@@ -24,6 +24,7 @@ I'm Sim👏  👏  👏
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHubAction-2496ED?style=flat-square&logo=GitHubAction&logoColor=white"/>
 </p>
 
 ## FramWork :
