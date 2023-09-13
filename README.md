@@ -31,7 +31,7 @@ I'm Sim👏  👏  👏
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-181717?style=flat-square&logo=Spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/react-181717?style=flat-square&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=React&logoColor=white"/> 
 </p>
 
 
