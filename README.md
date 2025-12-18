@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-simwanwoo.vercel.app-blue?style=for-the-badge&logo=vercel)](https://simwanwoo.vercel.app)
 [![Email](https://img.shields.io/badge/Email-sww4689@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sww4689@naver.com)
-[![Phone](https://img.shields.io/badge/Phone-010--5415--4689-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+821054154689)
 
 </div>
 
@@ -74,67 +73,7 @@
 
 </div>
 
----
 
 ## 🌟 Featured Projects
 
-### 💼 [Personal Portfolio](https://simwanwoo.vercel.app)
-Next.js 15 기반의 현대적인 포트폴리오 웹사이트
-- **Tech**: Next.js 15, TypeScript, Tailwind CSS, Framer Motion
-- **Features**: 다크모드, 반응형 디자인, 부드러운 애니메이션
-
-### 🏢 [Celis Homepage](https://celis.co.kr)
-외주 개발 서비스 홈페이지
-- **Tech**: Next.js, TypeScript, Tailwind CSS
-- **Services**: 웹 개발, 모바일 앱 개발, AI 솔루션
-
-### 🔧 Flow-Craft
-AI 기반 워크플로우 자동화 도구
-- **Tech**: Python, React, FastAPI
-- **Features**: AI 통합, 워크플로우 자동화
-
----
-
-## 🏆 Achievements
-
-- 🎯 **205+ contributions** in the last year
-- 🚀 **29+ public repositories**
-- 💻 **Multiple full-stack projects** deployed
-- 🤝 **Collaboration** on various open-source projects
-
----
-
-## 📈 Current Focus
-
-- 🤖 AI/LLM Integration & Agent Development
-- ☁️ Cloud Infrastructure Optimization
-- 📱 Full-Stack Web/Mobile Development
-- 💰 Financial Markets & Trading Automation
-- 🚀 Scaling Freelance to Agency Operations
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-**프로젝트 문의 및 협업을 환영합니다!**
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sww4689@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://simwanwoo.vercel.app)
-[![Celis](https://img.shields.io/badge/Celis-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://celis.co.kr)
-
----
-
-### 💼 Available for:
-- Full-Stack Web Development
-- AI/ML Solutions
-- Cloud Infrastructure Setup
-- Technical Consulting
-- Freelance Projects
-
----
-
-*"Building the future, one line of code at a time."* 💻✨
-
-</div>
+###
