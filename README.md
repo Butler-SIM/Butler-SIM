@@ -13,10 +13,7 @@
 
 ## 💼 About Me
 
-프리랜서 개발자로 활동하며 **AI 기반 솔루션**과 **풀스택 웹 개발**을 전문으로 합니다.
-
-- 🏢 **개인사업자** (정보통신업 및 소프트웨어 개발)
-- 🌐 **외주 개발 서비스**: [celis.co.kr](https://celis.co.kr)
+**AI 기반 솔루션**과 **풀스택 웹 개발**을 전문으로 합니다.
 - 📍 **위치**: Seoul, South Korea
 - 💡 **관심사**: AI/LLM, Cloud Infrastructure, Financial Markets
 
