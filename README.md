@@ -2,7 +2,7 @@
 
 Java · Python · TypeScript 풀스택 개발자. 결제가 붙은 AI 분석 서비스를 혼자 만들어 운영하고 있어요.
 
-<img src="./stats.svg" alt="Production API 260+ · LLM Providers 4개 · DB Tables 54개 · Projects 17건" width="100%" />
+<img src="./stats.svg?v=2" alt="Production API 260+ · LLM Providers 4개 · DB Tables 54개 · Projects 17건" width="100%" />
 
 **featured**
 
