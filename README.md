@@ -3,10 +3,7 @@
 Java · Python · TypeScript 기반 8년차 풀스택 개발자.
 결제가 붙은 AI 분석 서비스를 혼자 만들어 운영하고 있어요.
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Butler-SIM&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Butler-SIM&theme=dark&background=0d1117&hide_border=true" alt="Streak" />
-</p>
+<img src="./stats.svg" alt="Experience 8년차 · Projects 17건 · Production API 260+ · LLM Providers 4개" width="100%" />
 
 **now**
 
